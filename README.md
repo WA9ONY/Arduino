@@ -90,8 +90,36 @@ YouTube
   + Arduino Day 2013 7 playlist [2013](https://www.youtube.com/playlist?list=PLyT2f5rNsMZrMy8J7sm9sYppJaFxWvszV)
   + Arduino Day 2013 9 playlist [2013](https://www.youtube.com/playlist?list=PL2xif19HYRjzQTSy9b-dhN7p6K8ZkhjKh)
 
+ 
+<A NAME="P108"></A>
+<HR>
+<P align="center"><A HREF="#P107">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P109">--&gt;</A></P>  
     
-<A NAME="P2"></A>
+# Project 2: Arduino IDE MicroPython
+<p align="center">
+<img align="center" width="158" height="159" src="/Images/ArduinouPy.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+<img align="center" width="295" height="300" src="/Images/Micropython-logo.svgs50.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
+<img align="center" width="189" height="193" src="/Images/MicroPythonIcon.png">    
+</p>
+        
+Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards the Arduino IDE and microcontroller board supports MicroPython.
++ [MicroPython with Arduino](https://docs.arduino.cc/micropython/)
++ Arduino boards supported
+    + Nano RP2040 Connect Firmware
+    + GIGA R1 Firmware
+    + Portenta H7 Firmware
+    + Nano BLE Sense Firmware
+    + Nicla Vision Firmware
+
+[Elektor](https://www.elektor.com/)
+  + 2022 Dec, page 14: MicroPython Enters the World of Arduino [from Arduino](https://blog.arduino.cc/2022/12/11/arduino-has-guest-edited-a-special-edition-of-elektor-magazine-and-were-giving-away-the-digital-copy-for-only-e1-for-a-limited-time/)
+    + S. Romero [MicroPython GitHub](https://github.com/sebromero/micropython-intro)
+    
+[Elektor TV](https://www.youtube.com/@ElektorTV)    
++ 2023-03-09 Unlock the Power of MicroPython on Your Arduino [YouTube](https://www.youtube.com/live/kP57-IJMQJs?feature=share)  
+
+    
+<A NAME="P3"></A>
 <HR>
 <P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P183">--&gt;</A></P>  
     
