@@ -3,6 +3,32 @@
 
 # Arduino Microcontrollers
 
++ Project 8: <A HREF="#P8">Arduino Microcontroller Introduction</A>
++ Project 12: <A HREF="#P12">Arduino Nano RP2040 Connect Board</A>
++ Project 17: <A HREF="#P17">Arduino IDEs on Linux Computer</A>
++ Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3</A>
++ Project 28: <A HREF="#P28">Arduino Cloud</A>
++ Project 29: <A HREF="#P29">Arduino Microcontroller Boards</A>
++ Project 30: <A HREF="#P30">Arduino Clone Microcontroller Boards</A> 
++ Project 31: <A HREF="#P31">Arduino OPLA IoT Kit</A>
++ Project 32: <A HREF="#P32">Arduino IoTerrific Bundle</A>
++ Project 43: <A HREF="#P43">Arduino Registration and Cloud Plan</A> 
++ Project 44: <A HREF="#P44">Arduino Simple OPLA Read & Display Sensor Data Sketch</A> 
++ Project 46: <A HREF="#P46">Arduino MEGA 2560 Microcontroller Board</A>
++ Project 48: <A HREF="#P48">Arduino IDEs on Windows 10 Computer</A>
++ Project 49: <A HREF="#P49">Arduino IDE V1.8 on Raspberry Pi Computer</A>
++ Project 51: <A HREF="#P51">Learn C++ with Arduino Web Editor & Board</A>
++ Project 54: <A HREF="#P54">Arduino MEGA 2560 Rev3 Case</A>
++ Project 55: <A HREF="#P55">Arduino IoT Cloud</A>
++ Project 56: <A HREF="#P56">Arduino OPLA RGB LED Test</A>
++ Project 57: <A HREF="#P57">Arduino OPLA Personal Weather Station IoT Cloud</A>
++ Project 58: <A HREF="#P58">Arduino IoT Cloud Over-the-Air</A>
++ Project 59: <A HREF="#P59">Arduino IoT Cloud iOS Mobile Dashboard Pane</A>
+
++ Project 60: <A HREF="#P60">Arduino Day</A>
++ Project 61: <A HREF="#P61">Arduino IDE MicroPython</A>
++ Project 62: <A HREF="#P62">Arduino UNO R4</A>
+
 <A NAME="P1"></A>
 <HR>
 
@@ -1239,7 +1265,11 @@ Over-the-Air Updates Requirements
 
 
     
-# Project 1: Arduino Day
+<A NAME="P60"></A>
+<HR>
+<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P183">--&gt;</A></P>  
+     
+# Project 60: Arduino Day
 
 ### Arduino Day March 25th 2023
     
@@ -1324,11 +1354,11 @@ YouTube
   + Arduino Day 2013 9 playlist [2013](https://www.youtube.com/playlist?list=PL2xif19HYRjzQTSy9b-dhN7p6K8ZkhjKh)
 
  
-<A NAME="P108"></A>
+<A NAME="P61"></A>
 <HR>
 <P align="center"><A HREF="#P107">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P109">--&gt;</A></P>  
     
-# Project 2: Arduino IDE MicroPython
+# Project 61: Arduino IDE MicroPython
 <p align="center">
 <img align="center" width="158" height="159" src="/Images/ArduinouPy.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
 <img align="center" width="295" height="300" src="/Images/Micropython-logo.svgs50.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
@@ -1352,11 +1382,11 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
 + 2023-03-09 Unlock the Power of MicroPython on Your Arduino [YouTube](https://www.youtube.com/live/kP57-IJMQJs?feature=share)  
 
     
-<A NAME="P3"></A>
+<A NAME="P62"></A>
 <HR>
 <P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P183">--&gt;</A></P>  
     
-# Project 2: Arduino UNO R4
+# Project 62: Arduino UNO R4
     
 [Arduino](https://www.arduino.cc/) [UNO R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/) might be available in June 2023 at [store](https://store.arduino.cc/pages/unor4).
   
