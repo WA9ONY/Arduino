@@ -322,9 +322,6 @@ Elegoo YouTube Videos
 Aideepen V3.0 NANO on [Amazon](https://www.amazon.com/dp/B0BLW3881B?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   
 
-<HR>
-<P align="center"><A HREF="#P29">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P31">--&gt;</A></P>  
-
 <A NAME="P31"></A>
 <HR>
 <P align="center"><A HREF="README.md#P30">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P32">--&gt;</A></P>  
