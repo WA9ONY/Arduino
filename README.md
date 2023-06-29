@@ -29,6 +29,10 @@
 + Project 61: <A HREF="#P61">Arduino IDE MicroPython</A>
 + Project 62: <A HREF="#P62">Arduino UNO R4</A>
 
++ Project 102: <A HREF="#P102">List of YouTube Playlists</A>
+
+
+
 <A NAME="P1"></A>
 <HR>
 
@@ -1391,3 +1395,24 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
 [Arduino](https://www.arduino.cc/) [UNO R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/) might be available in June 2023 at [store](https://store.arduino.cc/pages/unor4).
   
 
+<A NAME="P102"></A>
+<HR>
+<P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P103">--&gt;</A></P>  
+    
+# Project 102: List of YouTube Playlists
+<p align="center">
+<img  width="256" height="57" src="/Images/YouTube_LogoS.png">
+</p>
+
+This a list of playlist and over one hour videos.
+    
+### Arduino playlists 
++ [Arduino Course for Beginners - Open-Source Electronics Platform, 4 hours](https://youtu.be/zJ-LqeX_fLU)
++ [Arduino Lessons, 36 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-)
++ [Arduino Workshop for Beginners, 35 videos](https://www.youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr)
++ [Learn Arduino in 90 Minnutes, 8 videos](https://www.youtube.com/playlist?list=PLYutciIGBqC3wBleqH41YCMCqx9V1jLII)
++ [New Arduino Tutorials, 68 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
++ [Tutorial Series for Arduino, 15 videos](https://www.youtube.com/playlist?list=PLA567CE235D39FA84)
++ Google YouTube search for [Arduino, >35 million videos](https://www.google.com/search?q=youtube+arduino&sxsrf=AJOqlzUYz3XRCX44F4QeODVf3ajzwJ9fMA%3A1677997243248&ei=uzQEZKrpDoTB9AOPm7H4DQ&ved=0ahUKEwjqsvjsksT9AhWEIH0KHY9NDN8Q4dUDCBA&uact=5&oq=youtube+arduino&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQkQIyBQgAEJECMgcIABANEIAEMgcIABANEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHOggIABAIEB4QCjoFCAAQhgM6BQgAEIAEOgkIABAHEB4Q8QQ6BggAEAcQHjoICAAQBxAeEAo6CAgAEAgQBxAeOgYIABAIEB46CgghEKABEMMEEAo6CAghEKABEMMEOgYIABAeEA06BQgAEKIESgQIQRgAUIASWKy0AWCvzwFoA3ACeACAAXWIAeIKkgEEMTYuMZgBAKABAcgBCMABAQ&sclient=gws-wiz-serp)
+    
+  
