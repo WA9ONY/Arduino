@@ -1254,12 +1254,10 @@ Over-the-Air Updates Requirements
 + iPhone 13    
 + iPad 5th gen, iOS 15.6.1 just WiFi connection, no data service.    
  
-
-
     
 <A NAME="P60"></A>
 <HR>
-<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P61">--&gt;</A></P>  
+<P align="center"><A HREF="#P59">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P61">--&gt;</A></P>  
      
 # Project 60: Arduino Day
 
@@ -1348,7 +1346,7 @@ YouTube
  
 <A NAME="P61"></A>
 <HR>
-<P align="center"><A HREF="#P107">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P109">--&gt;</A></P>  
+<P align="center"><A HREF="#P60">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P62">--&gt;</A></P>  
     
 # Project 61: Arduino IDE MicroPython
 <p align="center">
@@ -1376,7 +1374,7 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
     
 <A NAME="P62"></A>
 <HR>
-<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P183">--&gt;</A></P>  
+<P align="center"><A HREF="#P61">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P102">--&gt;</A></P>  
     
 # Project 62: Arduino UNO R4
     
@@ -1403,20 +1401,4 @@ This a list of playlist and over one hour videos.
 + [Tutorial Series for Arduino, 15 videos](https://www.youtube.com/playlist?list=PLA567CE235D39FA84)
 + Google YouTube search for [Arduino, >35 million videos](https://www.google.com/search?q=youtube+arduino&sxsrf=AJOqlzUYz3XRCX44F4QeODVf3ajzwJ9fMA%3A1677997243248&ei=uzQEZKrpDoTB9AOPm7H4DQ&ved=0ahUKEwjqsvjsksT9AhWEIH0KHY9NDN8Q4dUDCBA&uact=5&oq=youtube+arduino&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQkQIyBQgAEJECMgcIABANEIAEMgcIABANEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHOggIABAIEB4QCjoFCAAQhgM6BQgAEIAEOgkIABAHEB4Q8QQ6BggAEAcQHjoICAAQBxAeEAo6CAgAEAgQBxAeOgYIABAIEB46CgghEKABEMMEEAo6CAghEKABEMMEOgYIABAeEA06BQgAEKIESgQIQRgAUIASWKy0AWCvzwFoA3ACeACAAXWIAeIKkgEEMTYuMZgBAKABAcgBCMABAQ&sclient=gws-wiz-serp)
     
-<P>&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-&nbsp;<BR>
-</P>  
-End of notes.
+
