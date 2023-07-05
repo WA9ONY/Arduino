@@ -170,7 +170,6 @@ Resources
 + 1st & 2nd editions [downloads](http://www.arduinobook.com/progardui2ed/)
 +  Simon Monk [GitHub](https://github.com/simonmonk) 
 
-
   
 <A NAME="P28"></A>
 <HR>
@@ -404,7 +403,6 @@ At the bottom of the Carrier board is a connector for a SD caard.
 On [Amazon](https://www.amazon.com/Arduino-IoTerrific-Bundle-ioterrific-bun/dp/B0B39Q35TG)    
   
 
-   
 <A NAME="P43"></A>
 <HR>
 <P align="center"><A HREF="#P32">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P44">--&gt;</A></P>  
@@ -533,8 +531,7 @@ Amazon
 Elektor
 + [Ultimate Arduino Mega 2560 Hardware Manual, 234 pages, E-book, color PDF](https://www.elektor.com/ultimate-arduino-mega-2560-hardware-manual-e-book)
     
-
-      
+   
 <A NAME="P48"></A>
 <HR>
 <P align="center"><A HREF="#P46">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P49">--&gt;</A></P>  
@@ -1021,9 +1018,7 @@ void loop() {
  LEDrotate(1000, 50);
 */
  delay(4000);
-}
-    
-    
+}  
 </PRE>    
     
     
@@ -1032,8 +1027,7 @@ void loop() {
 <P align="center"><A HREF="#P56">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P58">--&gt;</A></P>  
     
 # Project 57: Arduino OPLA Personal Weather Station IoT Cloud
-
-    
+   
 ## Personal_Weather_Station_jan16a.ino   
     
 <PRE>
@@ -1257,7 +1251,7 @@ Over-the-Air Updates Requirements
     
 <A NAME="P60"></A>
 <HR>
-<P align="center"><A HREF="#P59">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P61">--&gt;</A></P>  
+<P align="center"><A HREF="#P59">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P61">--&gt;</A></P>  
      
 # Project 60: Arduino Day
 
@@ -1346,7 +1340,7 @@ YouTube
  
 <A NAME="P61"></A>
 <HR>
-<P align="center"><A HREF="#P60">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P62">--&gt;</A></P>  
+<P align="center"><A HREF="#P60">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P62">--&gt;</A></P>  
     
 # Project 61: Arduino IDE MicroPython
 <p align="center">
@@ -1383,7 +1377,7 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
 
 <A NAME="P102"></A>
 <HR>
-<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
 # Project 102: List of YouTube Playlists
 <p align="center">
