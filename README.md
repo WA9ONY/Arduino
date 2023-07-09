@@ -1373,6 +1373,17 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
 # Project 62: Arduino UNO R4
     
 [Arduino](https://www.arduino.cc/) [UNO R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/) might be available in June 2023 at [store](https://store.arduino.cc/pages/unor4).
+
+Overviews
++ The new Arduino UNO R4, insights from Arduino and Renesas! - Elektor Engineering Insights #24 [YouTube}(https://www.youtube.com/live/vrZ_aJnFd-Q?feature=share)
+
+Renesa RA4M1 microcontroller
++ 32-bits
++ FPU
++ 48 Mhz
++ 5 V GPIO compatible with UNO R3
++ DAC
++ 
   
 
 <A NAME="P102"></A>
