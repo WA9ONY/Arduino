@@ -6,7 +6,7 @@
 + Project 8: <A HREF="README.md#P8">Arduino Microcontroller Introduction</A>
 + Project 12: <A HREF="README.md#P12">Arduino Nano RP2040 Connect Board</A>
 + Project 17: <A HREF="README.md#P17">Arduino IDEs on Linux Computer</A>
-+ Project 26: <A HREF="README.md#P26">Run the Arduino IDE & Arduno Uno R3</A>
++ Project 26: <A HREF="README.md#P26">Arduino IDE & Arduno Uno R3</A>
 + Project 28: <A HREF="README.md#P28">Arduino Cloud</A>
 + Project 29: <A HREF="README.md#P29">Arduino Microcontroller Boards</A>
 + Project 30: <A HREF="README.md#P30">Arduino Clone Microcontroller Boards</A> 
@@ -27,7 +27,7 @@
 + Project 60: <A HREF="README.md#P60">Arduino Day</A>
 + Project 61: <A HREF="README.md#P61">Arduino IDE MicroPython</A>
 + Project 62: <A HREF="README.md#P62">Arduino UNO R4</A>
-+ Project 102: <A HREF="README.md#P102">List of YouTube Playlists</A>
++ Project 102: <A HREF="README.md#P102">Arduino YouTube Playlists</A>
  
 <A NAME="P8"></A>
 <HR>
@@ -135,13 +135,12 @@ YouTubes
 + [Arduino IDE vs. Arduino IoT Cloud Editor](https://youtu.be/lL1caDBLlhA)
 + Arduino Workshop for Beginners, [35 videos playlist](https://www.youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr)
  
-
   
 <A NAME="P26"></A>
 <HR>
 <P align="center"><A HREF="#P17">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P28">--&gt;</A></P>  
 
-# Project 26: Run the Arduino IDE & Arduno Uno R3
+# Project 26: Arduino IDE & Arduno Uno R3
 
 <p align="center">
   <img width="241" height="341" src="/Images/ProgrammingArduino3rd.png">     
@@ -1388,13 +1387,11 @@ Renesa RA4M1 microcontroller
 <HR>
 <P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
-# Project 102: List of YouTube Playlists
+# Project 102: Arduino YouTube Playlists
 <p align="center">
 <img  width="256" height="57" src="/Images/YouTube_LogoS.png">
 </p>
-
-This a list of playlist and over one hour videos.
-    
+   
 ### Arduino playlists 
 + [Arduino Course for Beginners - Open-Source Electronics Platform, 4 hours](https://youtu.be/zJ-LqeX_fLU)
 + [Arduino Lessons, 36 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-)
