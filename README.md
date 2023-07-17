@@ -27,6 +27,7 @@
 + Project 60: <A HREF="README.md#P60">Arduino Day</A>
 + Project 61: <A HREF="README.md#P61">Arduino IDE MicroPython</A>
 + Project 62: <A HREF="README.md#P62">Arduino UNO R4</A>
++ Project 63: <A HREF="README.md#P61">Arduino Tinkercad Simulator</A>
 + Project 102: <A HREF="README.md#P102">Arduino YouTube Playlists</A>
  
 <A NAME="P8"></A>
@@ -1365,7 +1366,7 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
     
 <A NAME="P62"></A>
 <HR>
-<P align="center"><A HREF="#P61">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P102">--&gt;</A></P>  
+<P align="center"><A HREF="#P61">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P63">--&gt;</A></P>  
     
 # Project 62: Arduino UNO R4
     
@@ -1380,12 +1381,27 @@ Renesa RA4M1 microcontroller
 + 48 Mhz
 + 5 V GPIO compatible with UNO R3
 + DAC
-+ 
   
+ 
+<A NAME="P63"></A>
+<HR>
+<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P102">--&gt;</A></P>  
+    
+# Project 63: Arduino Tinkercad Simulator
+    
+[Tinkercad](https://www.tinkercad.com)
+
++ Gallery [Arduino](https://www.tinkercad.com/search?q=Arduino&category=circuits)    
+    
+Videos
++ [The Arduino Simulator you’ve been looking for!](https://youtu.be/6uz1sCA9joc)   
++ YouTube Tinkercad Arduino [list](https://www.youtube.com/results?search_query=tinkercad+arduino)    
++ Arduino UNO Tutorial #1 - Intro to Arduino w/TinkerCAD Circuits [video](https://youtu.be/3kDMYomFw5o)
+
 
 <A NAME="P102"></A>
 <HR>
-<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P63">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
 # Project 102: Arduino YouTube Playlists
 <p align="center">
