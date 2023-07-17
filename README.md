@@ -3,33 +3,31 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Arduino Microcontrollers Project Notes Index
-+ Project 8: <A HREF="#P8">Arduino Microcontroller Introduction</A>
-+ Project 12: <A HREF="#P12">Arduino Nano RP2040 Connect Board</A>
-+ Project 17: <A HREF="#P17">Arduino IDEs on Linux Computer</A>
-+ Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3</A>
-+ Project 28: <A HREF="#P28">Arduino Cloud</A>
-+ Project 29: <A HREF="#P29">Arduino Microcontroller Boards</A>
-+ Project 30: <A HREF="#P30">Arduino Clone Microcontroller Boards</A> 
-+ Project 31: <A HREF="#P31">Arduino OPLA IoT Kit</A>
-+ Project 32: <A HREF="#P32">Arduino IoTerrific Bundle</A>
-+ Project 43: <A HREF="#P43">Arduino Registration and Cloud Plan</A> 
-+ Project 44: <A HREF="#P44">Arduino Simple OPLA Read & Display Sensor Data Sketch</A> 
-+ Project 46: <A HREF="#P46">Arduino MEGA 2560 Microcontroller Board</A>
-+ Project 48: <A HREF="#P48">Arduino IDEs on Windows 10 Computer</A>
-+ Project 49: <A HREF="#P49">Arduino IDE V1.8 on Raspberry Pi Computer</A>
-+ Project 51: <A HREF="#P51">Learn C++ with Arduino Web Editor & Board</A>
-+ Project 54: <A HREF="#P54">Arduino MEGA 2560 Rev3 Case</A>
-+ Project 55: <A HREF="#P55">Arduino IoT Cloud</A>
-+ Project 56: <A HREF="#P56">Arduino OPLA RGB LED Test</A>
-+ Project 57: <A HREF="#P57">Arduino OPLA Personal Weather Station IoT Cloud</A>
-+ Project 58: <A HREF="#P58">Arduino IoT Cloud Over-the-Air</A>
-+ Project 59: <A HREF="#P59">Arduino IoT Cloud iOS Mobile Dashboard Pane</A>
-
-+ Project 60: <A HREF="#P60">Arduino Day</A>
-+ Project 61: <A HREF="#P61">Arduino IDE MicroPython</A>
-+ Project 62: <A HREF="#P62">Arduino UNO R4</A>
-
-+ Project 102: <A HREF="#P102">List of YouTube Playlists</A>
++ Project 8: <A HREF="README.md#P8">Arduino Microcontroller Introduction</A>
++ Project 12: <A HREF="README.md#P12">Arduino Nano RP2040 Connect Board</A>
++ Project 17: <A HREF="README.md#P17">Arduino IDEs on Linux Computer</A>
++ Project 26: <A HREF="README.md#P26">Run the Arduino IDE & Arduno Uno R3</A>
++ Project 28: <A HREF="README.md#P28">Arduino Cloud</A>
++ Project 29: <A HREF="README.md#P29">Arduino Microcontroller Boards</A>
++ Project 30: <A HREF="README.md#P30">Arduino Clone Microcontroller Boards</A> 
++ Project 31: <A HREF="README.md#P31">Arduino OPLA IoT Kit</A>
++ Project 32: <A HREF="README.md#P32">Arduino IoTerrific Bundle</A>
++ Project 43: <A HREF="README.md#P43">Arduino Registration and Cloud Plan</A> 
++ Project 44: <A HREF="README.md#P44">Arduino Simple OPLA Read & Display Sensor Data Sketch</A> 
++ Project 46: <A HREF="README.md#P46">Arduino MEGA 2560 Microcontroller Board</A>
++ Project 48: <A HREF="README.md#P48">Arduino IDEs on Windows 10 Computer</A>
++ Project 49: <A HREF="README.md#P49">Arduino IDE V1.8 on Raspberry Pi Computer</A>
++ Project 51: <A HREF="README.md#P51">Learn C++ with Arduino Web Editor & Board</A>
++ Project 54: <A HREF="README.md#P54">Arduino MEGA 2560 Rev3 Case</A>
++ Project 55: <A HREF="README.md#P55">Arduino IoT Cloud</A>
++ Project 56: <A HREF="README.md#P56">Arduino OPLA RGB LED Test</A>
++ Project 57: <A HREF="README.md#P57">Arduino OPLA Personal Weather Station IoT Cloud</A>
++ Project 58: <A HREF="README.md#P58">Arduino IoT Cloud Over-the-Air</A>
++ Project 59: <A HREF="README.md#P59">Arduino IoT Cloud iOS Mobile Dashboard Pane</A>
++ Project 60: <A HREF="README.md#P60">Arduino Day</A>
++ Project 61: <A HREF="README.md#P61">Arduino IDE MicroPython</A>
++ Project 62: <A HREF="README.md#P62">Arduino UNO R4</A>
++ Project 102: <A HREF="README.md#P102">List of YouTube Playlists</A>
  
 <A NAME="P8"></A>
 <HR>
