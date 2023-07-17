@@ -27,7 +27,7 @@
 + Project 60: <A HREF="README.md#P60">Arduino Day</A>
 + Project 61: <A HREF="README.md#P61">Arduino IDE MicroPython</A>
 + Project 62: <A HREF="README.md#P62">Arduino UNO R4</A>
-+ Project 63: <A HREF="README.md#P61">Arduino Tinkercad Simulator</A>
++ Project 63: <A HREF="README.md#P63">Arduino Tinkercad Simulator</A>
 + Project 102: <A HREF="README.md#P102">Arduino YouTube Playlists</A>
  
 <A NAME="P8"></A>
