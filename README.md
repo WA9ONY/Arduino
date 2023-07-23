@@ -554,6 +554,11 @@ The above screenshot shows the three [Arduino IDEs](https://www.arduino.cc/en/so
   + A debugger
   + An editor with auto completes.
 
+## IDE [V2.1.1](https://forum.arduino.cc/t/arduino-ide-2-1-1-is-now-available/1145403)
++ July 6,2023
++ [Automatic Updates](https://blog.arduino.cc/2022/03/07/arduino-ide-2-delivers-auto-updater-and-more/) 
+
+
 ## IDE [V1.8.19](https://www.arduino.cc/en/software) 
 + Icon installed on the desktop.
 + Most Arduino books are written about the Arduino IDE V1.8 or earlier. 
