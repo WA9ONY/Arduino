@@ -128,7 +128,7 @@ In Arduino.deskop Properties
 + Rename to Arduino211
 + In Permissions Execute Allow executing file as program.
 
-Click on Arduino221 and fix the warning.
+Double click on Arduino221 and fix the warning.
 
   
 ## IDE [V2.0.3](https://www.arduino.cc/en/software)
