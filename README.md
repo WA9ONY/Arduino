@@ -94,11 +94,34 @@ Arduino Nano RP2040 Connect Microcontroller Board.
 The above screenshot shows the three [Arduino IDEs](https://www.arduino.cc/en/software) open on an Ubuntu computer.  The far left is the Web Editor, upper right corner is IDE V1,8.19 and bottom left corner is IDE 2.0.3.  All three IDEs have the example Blink sketch loaded.
  
 The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) computer.
+
 ## [Web Editor](https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor) 
 + Need to have an Arduino account (no cost).
 + Web Editor needs the Arduino Create Agent installed to communicate to the Arduino board.
 + To use the [Arduino Cloud](https://cloud.arduino.cc/home/) the [free Cloud account](https://cloud.arduino.cc/plans/) provides 100 MBytes of storage. 
 + Later the Arduino IoT Cloud will be used in projects.  The Arduino Cloud and Arduino IoT Cloud are different.
+
+## IDE [V2.1.1](https://www.arduino.cc/en/software)
++ Creage a directory in Home: ArduinoIDE211
++ Download the zip file: Linux ZIP file 64 bits (X86-64)
++ Extract zip file:arduino-ide_2.1.1_Linux_64bit.zip
++ Launch V2.1.1 application file: arduino-ide
+
+Create Ubuntu program icon.
++ david@wa9ony-nuc8i7hvk:~$ gedit ~/Desktop/Arduino.desktop
+<PRE>
+ [Desktop Entry]
+ Name=Arduino211
+ Comment=Arduino 2.1.1 IDE
+ Exec=/home/david/ArduinoIDE211/arduino-ide
+ Path=/home/david/ArduinoIDE211
+ Icon=/home/david/ArduinoIDE211/icon.png
+ Terminal=false
+ Type=Application
+ Categories=Utility;Application;Development;
+</PRE>
+
+
 ## IDE [V2.0.3](https://www.arduino.cc/en/software)
 + No program icon was created.
 + V2 has a debugger.
