@@ -104,11 +104,14 @@ The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) com
 ## IDE [V2.1.1](https://www.arduino.cc/en/software)
 + Creage a directory in Home: ArduinoIDE211
 + Download the zip file: Linux ZIP file 64 bits (X86-64)
++ Move zip file to directory ArduinoIDE211
 + Extract zip file:arduino-ide_2.1.1_Linux_64bit.zip
 + Launch V2.1.1 application file: arduino-ide
 
 Create Ubuntu program icon.
-+ david@wa9ony-nuc8i7hvk:~$ gedit ~/Desktop/Arduino.desktop
++ Find Arduino Icon file, copy it to directory ArduinoIDE21, rename it to icon.png.
++ In terminal: david@wa9ony-nuc8i7hvk:~$ gedit ~/Desktop/Arduino.desktop
+
 <PRE>
  [Desktop Entry]
  Name=Arduino211
@@ -121,7 +124,13 @@ Create Ubuntu program icon.
  Categories=Utility;Application;Development;
 </PRE>
 
+In Arduino.deskop Properties
++ Rename to Arduino211
++ In Permissions Execute Allow executing file as program.
 
+Click on Arduino221 and fix the warning.
+
+  
 ## IDE [V2.0.3](https://www.arduino.cc/en/software)
 + No program icon was created.
 + V2 has a debugger.
