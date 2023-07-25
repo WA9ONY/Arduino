@@ -129,7 +129,7 @@ In Arduino.deskop Properties
 + In Permissions Execute Allow executing file as program.
 
 Double click on Arduino221 and fix the warning.
-
++ Right-click enable "Allow Lauching"
   
 ## IDE [V2.0.3](https://www.arduino.cc/en/software)
 + No program icon was created.
