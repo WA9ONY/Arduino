@@ -86,9 +86,14 @@ In conclusion, the evolution and history of Arduino is a testament to the power 
 + 2017: The Arduino MKR series is released.
 + 2018: The Arduino Nano 33 IoT is released.
 + 2019: The Arduino Portenta H7 is released.
++ 2019: The Arduino IoT Cloud is released.
 + 2020: The Arduino Nano RP2040 Connect is released.
 + 2021: The Arduino Nano RP2040 AVR is released.
-
++ 2021: 10 million Arduino Nuo boards is sold.
++ 2022: The Arduino Web IDE is released.
++ 2023: The Arduino Uno R4 is released.
++ 2023: The Arduino Nano ESP32 is released with MicroPython support.
++ 2023: The Arduino Lab, MicroPython IDE, is released
 
 **Arduino Advantages and Applications**
 
