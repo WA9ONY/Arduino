@@ -73,6 +73,23 @@ Over the years, the Arduino family expanded to include an array of board models,
 
 In conclusion, the evolution and history of Arduino is a testament to the power of open-source collaboration and the impact of democratizing technology. From its humble beginnings as an academic project to becoming a global movement, Arduino has empowered countless individuals to embark on their journey of discovery, learning, and creativity. It continues to inspire the next generation of makers, designers, and engineers, reshaping the world of electronics and making technology accessible to all.
 
++ 2003: Hernando Barragán creates the development platform Wiring as a Master's thesis project at the Interaction Design Institute Ivrea (IDII) in Ivrea, Italy.
++ 2003: Massimo Banzi, David Mellis, and David Cuartielles port Wiring to the Atmel AVR8 processor architecture. This becomes a fork of the Wiring project, to be named Arduino.
++ 2005: The first Arduino board, the Arduino Uno, is released.
++ 2006: The Arduino Duemilanove is released.
++ 2008: The Arduino Nano and Arduino Mega are released.
++ 2010: The Arduino Leonardo is released.
++ 2011: The Arduino Yún is released.
++ 2012: The Arduino Due is released.
++ 2015: The Arduino/Genuino 101 is released.
++ 2016: Arduino LLC and Arduino SRL merge.
++ 2017: The Arduino MKR series is released.
++ 2018: The Arduino Nano 33 IoT is released.
++ 2019: The Arduino Portenta H7 is released.
++ 2020: The Arduino Nano RP2040 Connect is released.
++ 2021: The Arduino Nano RP2040 AVR is released.
+
+
 **Arduino Advantages and Applications**
 
 Arduino has emerged as a transformative platform, offering a host of advantages that have fueled its widespread adoption in diverse applications. From educational settings to industrial automation and creative projects, Arduino's unique features make it a go-to choice for hobbyists, students, professionals, and makers worldwide.
