@@ -35,12 +35,10 @@
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P12">--&gt;</A></P>  
 
-# Project 1: ChatGPT Arduino
-
+# Project 1: ChatGPT Arduino Book
 Title: "Arduino: A Comprehensive Guide to Interactive Electronics Projects"
 
-1. Introduction to Arduino
-   - Overview of Arduino platform
+## Chapter 1. Introduction to Arduino
 
   **Overview of Arduino Platform**
 
