@@ -37,7 +37,7 @@
 
 
 # Title: "Arduino: A Comprehensive Guide to Interactive Electronics Projects"
-## By ChatGPT and David Haworth WAA9ONY
+### By OpenAI ChatGPT, Google Generative AI and David Haworth WAA9ONY
 
 ## Chapter 1. Introduction to Arduino
 
@@ -73,12 +73,17 @@ Over the years, the Arduino family expanded to include an array of board models,
 
 In conclusion, the evolution and history of Arduino is a testament to the power of open-source collaboration and the impact of democratizing technology. From its humble beginnings as an academic project to becoming a global movement, Arduino has empowered countless individuals to embark on their journey of discovery, learning, and creativity. It continues to inspire the next generation of makers, designers, and engineers, reshaping the world of electronics and making technology accessible to all.
 
++ 1997: Atmel brings the first AVR microcontroller product to market.
++ 2001: Processing computer language/IDE developed by Casey Reas and Benjamin Fry, at the MIT Media Lab.
 + 2003: Hernando Barragán creates the development platform Wiring as a Master's thesis project at the Interaction Design Institute Ivrea (IDII) in Ivrea, Italy.
 + 2003: Massimo Banzi, David Mellis, and David Cuartielles port Wiring to the Atmel AVR8 processor architecture. This becomes a fork of the Wiring project, to be named Arduino.
++ 2005: The Arduino project began as a tool for students at the Interaction Design Institute Ivrea, Italy.
 + 2005: The first Arduino board, the Arduino Uno, is released.
 + 2006: The Arduino Duemilanove is released.
++ 2008: The Arduino IDE is released.
 + 2008: The Arduino Nano and Arduino Mega are released.
 + 2010: The Arduino Leonardo is released.
++ 2010: The Arduino Uno is released.
 + 2011: The Arduino Yún is released.
 + 2012: The Arduino Due is released.
 + 2015: The Arduino/Genuino 101 is released.
@@ -90,10 +95,12 @@ In conclusion, the evolution and history of Arduino is a testament to the power 
 + 2020: The Arduino Nano RP2040 Connect is released.
 + 2021: The Arduino Nano RP2040 AVR is released.
 + 2021: 10 million Arduino Nuo boards is sold.
-+ 2022: The Arduino Web IDE is released.
++ 2022: The Arduino IDE 2.0 was released.
++ 2022: The Arduino Web Editor is released.
 + 2023: The Arduino Uno R4 is released.
 + 2023: The Arduino Nano ESP32 is released with MicroPython support.
-+ 2023: The Arduino Lab, MicroPython IDE, is released
++ 2023: The Arduino Lab, MicroPython IDE, is released.
+
 
 **Arduino Advantages and Applications**
 
