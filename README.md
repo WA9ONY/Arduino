@@ -1474,6 +1474,8 @@ Videos
 
 
 Arduino Agent: Open Debug Console for Nano ESP32
++ "VendorID": "0x2341", Arduino SA
++ "ProductID": "0x0070" Nano ESP32
 
 <PRE>
  {
