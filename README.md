@@ -124,15 +124,15 @@ Create Ubuntu program icon.
 + In terminal: david@wa9ony-nuc8i7hvk:~$ gedit ~/Desktop/Arduino.desktop
 
 <PRE>
- [Desktop Entry]
- Name=Arduino211
- Comment=Arduino 2.1.1 IDE
- Exec=/home/david/ArduinoIDE211/arduino-ide
- Path=/home/david/ArduinoIDE211
- Icon=/home/david/ArduinoIDE211/icon.png
- Terminal=false
- Type=Application
- Categories=Utility;Application;Development;
+[Desktop Entry]
+Name=Arduino211
+Comment=Arduino 2.1.1 IDE
+Exec=/home/david/ArduinoIDE211/arduino-ide
+Path=/home/david/ArduinoIDE211
+Icon=/home/david/ArduinoIDE211/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;Development;
 </PRE>
 
 In Arduino.deskop Properties
