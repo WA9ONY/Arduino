@@ -1,5 +1,5 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P102">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A><BR>
+<P align="center"><A HREF="#P13">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Arduino Microcontrollers Project Notes Index
@@ -29,6 +29,7 @@
 + Project 62: <A HREF="README.md#P62">Arduino UNO R4</A>
 + Project 63: <A HREF="README.md#P63">Arduino Tinkercad Simulator</A>
 + Project 102: <A HREF="README.md#P102">Arduino YouTube Playlists</A>
++ Project 103: <A HREF="README.md#P103">Arduino Agent Debug Console Nano ESP32</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -1448,7 +1449,7 @@ Videos
 
 <A NAME="P102"></A>
 <HR>
-<P align="center"><A HREF="#P63">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P63">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P103">--&gt;</A></P>  
     
 # Project 102: Arduino YouTube Playlists
 <p align="center">
@@ -1465,3 +1466,67 @@ Videos
 + Google YouTube search for [Arduino, >35 million videos](https://www.google.com/search?q=youtube+arduino&sxsrf=AJOqlzUYz3XRCX44F4QeODVf3ajzwJ9fMA%3A1677997243248&ei=uzQEZKrpDoTB9AOPm7H4DQ&ved=0ahUKEwjqsvjsksT9AhWEIH0KHY9NDN8Q4dUDCBA&uact=5&oq=youtube+arduino&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQkQIyBQgAEJECMgcIABANEIAEMgcIABANEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHOggIABAIEB4QCjoFCAAQhgM6BQgAEIAEOgkIABAHEB4Q8QQ6BggAEAcQHjoICAAQBxAeEAo6CAgAEAgQBxAeOgYIABAIEB46CgghEKABEMMEEAo6CAghEKABEMMEOgYIABAeEA06BQgAEKIESgQIQRgAUIASWKy0AWCvzwFoA3ACeACAAXWIAeIKkgEEMTYuMZgBAKABAcgBCMABAQ&sclient=gws-wiz-serp)
     
 
+
+
+<A NAME="P103"></A>
+<HR>
+<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 103: Arduino Agent Debug Console Nano ESP32
+
+
+Arduino Agent: Open Debug Console for Nano ESP32
+
+<PRE>
+ {
+  "Version": "1.2.7"
+}
+
+{
+  "Commands": [
+    "list",
+    "open <portName> <baud> [bufferAlgorithm: ({default}, timed, timedraw)]",
+    "(send, sendnobuf, sendraw) <portName> <cmd>",
+    "close <portName>",
+    "restart",
+    "exit",
+    "killupload",
+    "downloadtool <tool> <toolVersion: {latest}> <pack: {arduino}> <behaviour: {keep}>",
+    "log",
+    "memorystats",
+    "gc",
+    "hostname",
+    "version"
+  ]
+}
+
+{
+  "Hostname": "wa9ony-nuc8i7hvk"
+}
+
+{
+  "OS": "linux"
+}
+
+help
+
+{
+  "Error": "Could not understand command."
+}
+
+list
+
+Serial Ports:
+[
+  {
+    "Name": "/dev/ttyACM0",
+    "SerialNumber": "3485187BB358",
+    "IsOpen": false,
+    "VendorID": "0x2341",
+    "ProductID": "0x0070"
+  }
+]
+
+Network Ports:
+[]
+</PRE>
