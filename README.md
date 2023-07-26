@@ -1473,7 +1473,7 @@ Videos
 # Project 103: Arduino Agent Debug Console Nano ESP32
 
 
-Arduino Agent: Open Debug Console for Nano ESP32
+Arduino USB Agent: Open Debug Console for Nano ESP32
 + "VendorID": "0x2341", Arduino SA
 + "ProductID": "0x0070" Nano ESP32
 
@@ -1506,12 +1506,6 @@ Arduino Agent: Open Debug Console for Nano ESP32
 
 {
   "OS": "linux"
-}
-
-help
-
-{
-  "Error": "Could not understand command."
 }
 
 list
