@@ -35,12 +35,13 @@
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P12">--&gt;</A></P>  
 
-# Project 1: ChatGPT Arduino Book
-Title: "Arduino: A Comprehensive Guide to Interactive Electronics Projects"
+
+# Title: "Arduino: A Comprehensive Guide to Interactive Electronics Projects"
+## By ChatGPT and David Haworth WAA9ONY
 
 ## Chapter 1. Introduction to Arduino
 
-  **Overview of Arduino Platform**
+**Overview of Arduino Platform**
 
 The Arduino platform has emerged as a revolutionary tool, empowering individuals of all ages and backgrounds to delve into the fascinating world of electronics and programming. Developed in Italy in the early 2000s by a team led by Massimo Banzi, Arduino is an open-source electronics prototyping platform that has since gained immense popularity worldwide. It provides an accessible and flexible environment for creating interactive projects, enabling both beginners and experienced makers to turn their ideas into reality.
 
@@ -53,8 +54,6 @@ One of the key strengths of the Arduino platform is its strong and vibrant commu
 Arduino's flexibility extends beyond its hardware; the platform also supports various add-on boards called shields. These shields extend the functionalities of the Arduino board, offering additional capabilities such as wireless communication (Wi-Fi, Bluetooth), motor control, and GPS tracking. This modularity allows users to adapt their Arduino projects to suit specific needs and requirements.
 
 In conclusion, the Arduino platform has emerged as a driving force in the world of electronics and prototyping, democratizing technology and making it accessible to a wide audience. Its simplicity, versatility, and vibrant community have sparked creativity and innovation, empowering individuals to explore their creativity, learn valuable skills, and bring their imaginative ideas to life. Whether it's a student tinkering with their first project or a seasoned maker creating a cutting-edge IoT device, Arduino continues to inspire and revolutionize the way we interact with electronics and technology.
-   
-   - Evolution and history of Arduino
 
 **Evolution and History of Arduino**
 
@@ -74,7 +73,6 @@ Over the years, the Arduino family expanded to include an array of board models,
 
 In conclusion, the evolution and history of Arduino is a testament to the power of open-source collaboration and the impact of democratizing technology. From its humble beginnings as an academic project to becoming a global movement, Arduino has empowered countless individuals to embark on their journey of discovery, learning, and creativity. It continues to inspire the next generation of makers, designers, and engineers, reshaping the world of electronics and making technology accessible to all.
 
-   - Advantages and applications
 **Arduino Advantages and Applications**
 
 Arduino has emerged as a transformative platform, offering a host of advantages that have fueled its widespread adoption in diverse applications. From educational settings to industrial automation and creative projects, Arduino's unique features make it a go-to choice for hobbyists, students, professionals, and makers worldwide.
