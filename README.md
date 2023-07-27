@@ -1,5 +1,5 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P103">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A><BR>
+<P align="center"><A HREF="#P104">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Arduino Microcontrollers Project Notes Index
@@ -2340,7 +2340,7 @@ Videos
 
 <A NAME="P103"></A>
 <HR>
-<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P104">--&gt;</A></P>  
     
 # Project 103: Arduino Agent Debug Console Nano ESP32
 
@@ -2396,3 +2396,37 @@ Serial Ports:
 Network Ports:
 []
 </PRE>
+
+
+    
+
+<A NAME="P104"></A>
+<HR>
+<P align="center"><A HREF="#P103">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 104: Google Generative AI: Create an Arduino program to blink the Uno R3 LED.
+
+<PRE>
+const int LED_PIN = 13;
+
+void setup() {
+  pinMode(LED_PIN, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(LED_PIN, HIGH);
+  delay(1000);
+  digitalWrite(LED_PIN, LOW);
+  delay(1000);
+} 
+
+</PRE>   
+This program will blink the LED connected to the pin 13 of the Arduino Uno R3 board. The LED will be turned on for 1 second and then turned off for 1 second. This will continue indefinitely until the Arduino Uno R3 board is turned off.
+Here is a brief explanation of the code:
++ The `const int LEDPIN = 13;` line defines a constant named `LEDPIN` that is set to the value 13. This is the pin number of the Arduino Uno R3 board + that is connected to the LED.
++ The `void setup()` function is called once when the Arduino Uno R3 board is turned on. This function is used to initialize the LED pin as an output pin.
++ The `void loop()` function is called repeatedly in a loop. This function is used to turn the LED on and off.
++ The `digitalWrite(LED_PIN, HIGH);` line turns the LED on. The `HIGH` argument tells the Arduino Uno R3 board to turn the output pin on.
++ The `delay(1000);` line waits for 1 second. This delay is used to create a pause between the time the LED is turned on and the time it is turned off.
++ The `digitalWrite(LED_PIN, LOW);` line turns the LED off. The `LOW` argument tells the Arduino Uno R3 board to turn the output pin off.
++ The `void loop()` function will continue to run indefinitely until the Arduino Uno R3 board is turned off.
