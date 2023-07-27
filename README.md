@@ -30,6 +30,7 @@
 + Project 63: <A HREF="README.md#P63">Arduino Tinkercad Simulator</A>
 + Project 102: <A HREF="README.md#P102">Arduino YouTube Playlists</A>
 + Project 103: <A HREF="README.md#P103">Arduino Agent Debug Console Nano ESP32</A>
++ Project 104: <A HREF="README.md#P104">Google Generative AI: Create an Arduino program to blink the Uno R3 LED.</A>
 
 <A NAME="P1"></A>
 <HR>
