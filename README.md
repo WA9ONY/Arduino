@@ -1,5 +1,5 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P104">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A><BR>
+<P align="center"><A HREF="#P105">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Arduino Microcontrollers Project Notes Index
@@ -31,6 +31,7 @@
 + Project 102: <A HREF="README.md#P102">Arduino YouTube Playlists</A>
 + Project 103: <A HREF="README.md#P103">Arduino Agent Debug Console Nano ESP32</A>
 + Project 104: <A HREF="README.md#P104">Google Generative AI: Create an Arduino program to blink the Uno R3 LED.</A>
++ Project 105: <A HREF="README.md#P105">Arduino Labs</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -2399,11 +2400,9 @@ Network Ports:
 </PRE>
 
 
-    
-
 <A NAME="P104"></A>
 <HR>
-<P align="center"><A HREF="#P103">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P103">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P105">--&gt;</A></P>  
     
 # Project 104: Google Generative AI: Create an Arduino program to blink the Uno R3 LED.
 
@@ -2431,3 +2430,40 @@ Here is a brief explanation of the code:
 + The `delay(1000);` line waits for 1 second. This delay is used to create a pause between the time the LED is turned on and the time it is turned off.
 + The `digitalWrite(LED_PIN, LOW);` line turns the LED off. The `LOW` argument tells the Arduino Uno R3 board to turn the output pin off.
 + The `void loop()` function will continue to run indefinitely until the Arduino Uno R3 board is turned off.
+
+
+<A NAME="P105"></A>
+<HR>
+<P align="center"><A HREF="#P104">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 105: Arduino Labs
+<p align="center">
+<img  width="256" height="256" src="/Images/ArduinoLabIcon.png">
+</p>
+
+[Arduino Labs](https://labs.arduino.cc/en) is a good starting point for using MicroPython on Arduino boards.
+
+Installation on Ubuntu 22.04.2 LTS
++ Create a home directory ArduinoLab
++ Download 0.8.0_linux_x64 at [ARDUINO LAB FOR MICROPYTHON](https://labs.arduino.cc/en/labs/micropython)
++ Move Arduino.Lab.for.Micropython-linux_x64.zip into ArduinoLab directory
++ Unzip Arduino.Lab.for.Micropython-linux_x64.zip
++ Double click on arduino-lab-micropython-ide to start
++ Create a ArduinoLab desktop icon.
+  + gedit ~/Desktop/ArduinoLab.desktop
+
+<PRE>
+[Desktop Entry]
+Name=ArduinoLab
+Comment=Arduino Lab 0.8.0 IDE
+Exec=/home/david/ArduinoLab/arduino-lab-micropython-ide
+Path=/home/david/ArduinoLab
+Icon=/home/david/ArduinoLab/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;Development;  
+</PRE>
+
++ Find a ArduinoLab icon.png file and put it in ArduinoLab directory.
++ In ArduinoLab.desktop Permissions Allow executing file as program. 
++ Right click on ArduinoLab.desktop, Allow Launching.
