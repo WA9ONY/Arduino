@@ -2445,7 +2445,7 @@ Here is a brief explanation of the code:
 <img  width="740" height="695" src="/Images/ArduinoLabIDE.png">
 </p>
 
-[Arduino Labs](https://labs.arduino.cc/en) is a good starting point for using MicroPython on Arduino boards.
+[Arduino Labs](https://labs.arduino.cc/en) is a good starting point for using MicroPython on [supported](https://github.com/arduino/lab-micropython-installer#-supported-boards) Arduino boards.
 
 Installation on Ubuntu 22.04.2 LTS
 + Create a home directory ArduinoLab
