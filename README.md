@@ -2441,6 +2441,10 @@ Here is a brief explanation of the code:
 <img  width="256" height="256" src="/Images/ArduinoLabIcon.png">
 </p>
 
+<p align="center">
+<img  width="740" height="695" src="/Images/ArduinoLabIDE.png">
+</p>
+
 [Arduino Labs](https://labs.arduino.cc/en) is a good starting point for using MicroPython on Arduino boards.
 
 Installation on Ubuntu 22.04.2 LTS
