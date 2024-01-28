@@ -67,6 +67,12 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 
 These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq)
 
+Homework assignment was to determine the frequency of the blinking LED persistence of vision. 
++ ChatGPT 4 [Persistence of vision](https://chat.openai.com/share/65a410fb-a6f3-4570-8d73-f6a093e37d2c)
+
+Blinking LED persistence of vision howework video.
+
+
 
 <A NAME="P7"></A>
 <HR>
