@@ -68,10 +68,13 @@ I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additi
 These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq)
 
 Homework assignment was to determine the frequency of the blinking LED persistence of vision. 
-+ [OpenAI](https://openai.com/)  [Persistence of vision](https://chat.openai.com/share/65a410fb-a6f3-4570-8d73-f6a093e37d2c)
++ [OpenAI](https://openai.com/) ChatGPT-4 [Persistence of vision](https://chat.openai.com/share/65a410fb-a6f3-4570-8d73-f6a093e37d2c)
 
 Blinking LED persistence of vision howework video.
-+ [OpenAI](https://openai.com/) ChatGPT 4 [Arduino Blinking LED Lession 1](https://chat.openai.com/share/a3e6c923-2132-417c-9ea7-c0c1ffd34d1c)
++ [OpenAI](https://openai.com/) ChatGPT-4 [Arduino Blinking LED Lession 1](https://chat.openai.com/share/a3e6c923-2132-417c-9ea7-c0c1ffd34d1c)
+
+Arduino Homework Script
+
 
 
 <A NAME="P7"></A>
