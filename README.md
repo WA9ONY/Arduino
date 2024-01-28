@@ -75,7 +75,7 @@ Blinking LED persistence of vision howework video.
 
 Arduino Homework Script
 
-'''C+
+```C+
 
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT); // Initialize the LED pin as an output.
@@ -101,7 +101,7 @@ void loop() {
   }
 }
 
-'''
+```
 
 
 <A NAME="P7"></A>
