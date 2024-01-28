@@ -75,6 +75,33 @@ Blinking LED persistence of vision howework video.
 
 Arduino Homework Script
 
+'''C+
+
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT); // Initialize the LED pin as an output.
+  Serial.begin(9600); // Start serial communication at 9600 baud rate.
+}
+
+void loop() {
+  for (int freq = 1; freq <= 100; ++freq) { // Loop from 1 Hz to 100 Hz
+    long onTime = 500 / freq; // Calculate the time the LED should be ON. 500ms is half the period for 1 Hz.
+    long offTime = 500 / freq; // Calculate the time the LED should be OFF.
+
+    Serial.print("Frequency: ");
+    Serial.print(freq);
+    Serial.println(" Hz");
+
+    long startTime = millis(); // Remember the start time
+    while (millis() - startTime < 3000) { // Continue blinking for 3 seconds
+      digitalWrite(LED_BUILTIN, HIGH); // Turn the LED on
+      delay(onTime); // Wait for onTime milliseconds
+      digitalWrite(LED_BUILTIN, LOW); // Turn the LED off
+      delay(offTime); // Wait for offTime milliseconds
+    }
+  }
+}
+
+'''
 
 
 <A NAME="P7"></A>
