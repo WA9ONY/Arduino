@@ -71,7 +71,7 @@ Homework assignment was to determine the frequency of the blinking LED persisten
 + ChatGPT 4 [Persistence of vision](https://chat.openai.com/share/65a410fb-a6f3-4570-8d73-f6a093e37d2c)
 
 Blinking LED persistence of vision howework video.
-
++ [Arduino Blinking LED Lession 1](https://chat.openai.com/share/a3e6c923-2132-417c-9ea7-c0c1ffd34d1c)
 
 
 <A NAME="P7"></A>
