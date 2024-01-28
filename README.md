@@ -3,6 +3,7 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Arduino Microcontrollers Project Notes Index
++ Project 1: <A HREF="README.md#P1">YouTube Channel: Paul McWhorter Arduino Tutorials</A>
 + Project 8: <A HREF="README.md#P8">Arduino Microcontroller Introduction</A>
 + Project 12: <A HREF="README.md#P12">Arduino Nano RP2040 Connect Board</A>
 + Project 17: <A HREF="README.md#P17">Arduino IDEs on Linux Computer</A>
@@ -41,8 +42,8 @@
     
 # Project 1 YouTube Channel: Paul McWhorter Arduino Tutorials
 
-Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
-+ Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [21 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex)
+Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [25 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
++ Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [201 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex)
   + [SunFounder Elite Explorer Kit with Official Arduino Uno R4 WiFi](https://amzn.to/3SciApZ)
   + [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?_gl=1*yqp6c9*_ga*MTI3MTU1MzUwOS4xNzA2NDIwNzk1*_ga_NEXN8H46L5*MTcwNjQyMDc5NC4xLjEuMTcwNjQyMDg0MS4wLjAuMA..*_fplc*NlclMkJmOXkyQXVOJTJGT3FHSiUyQmw0OCUyRmtNa1VmalJXRFY5JTJCUmlFYlhoUnJMOSUyQkhZa3MzcEw1SW9iTXdaZTgzREc2OFVFb3RsVUZGdWFSWVhEdGJ1bjdhVmFDcmlobGg3eXozcm5PS1lXRzc5VUhpWEVhQUd2Sm94MHVxU1haUXlnJTNEJTNE&selectedStore=us)
 ---
