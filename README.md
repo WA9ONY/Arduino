@@ -33,9 +33,43 @@
 + Project 104: <A HREF="README.md#P104">Google Generative AI: Create an Arduino program to blink the Uno R3 LED.</A>
 + Project 105: <A HREF="README.md#P105">Arduino Labs</A>
 
+
+
 <A NAME="P1"></A>
 <HR>
-<P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P12">--&gt;</A></P>  
+<P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#L1">--&gt;</A></P>  
+    
+# Project 1 YouTube Channel: Paul McWhorter Arduino Tutorials
+
+Paul McWhorter YouTube [channel](https://www.youtube.com/@paulmcwhorter) has extensive video [24 playlist](https://www.youtube.com/@paulmcwhorter/playlists) tutorials.
++ Free All New Arduino R4 WiFi LESSONS for Absolute Beginners [21 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex)
+  + [SunFounder Elite Explorer Kit with Official Arduino Uno R4 WiFi](https://amzn.to/3SciApZ)
+  + [Arduino® UNO R4 WiFi](https://store-usa.arduino.cc/products/uno-r4-wifi?_gl=1*yqp6c9*_ga*MTI3MTU1MzUwOS4xNzA2NDIwNzk1*_ga_NEXN8H46L5*MTcwNjQyMDc5NC4xLjEuMTcwNjQyMDg0MS4wLjAuMA..*_fplc*NlclMkJmOXkyQXVOJTJGT3FHSiUyQmw0OCUyRmtNa1VmalJXRFY5JTJCUmlFYlhoUnJMOSUyQkhZa3MzcEw1SW9iTXdaZTgzREc2OFVFb3RsVUZGdWFSWVhEdGJ1bjdhVmFDcmlobGg3eXozcm5PS1lXRzc5VUhpWEVhQUd2Sm94MHVxU1haUXlnJTNEJTNE&selectedStore=us)
+---
+I use the following [chatbots](https://en.wikipedia.org/wiki/Chatbot) for additional information, tutorials, create code, etc. 
+<BR><B>Warning chatbots do make errors which are called [AI hallucinations](https://www.ibm.com/topics/ai-hallucinations).</B> [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
+  + OpenAI [ChatGPT](https://openai.com/)
+    + ChatGPT 4 is [$20/month](https://openai.com/chatgpt/pricing)
+    + ChatGPT 3.4 is [free](https://openai.com/chatgpt/pricing). 
+  + Google [Brad](https://bard.google.com/chat)
+  + Microsoft [Bing chat](https://www.bing.com/search?iscopilotedu=1&sendquery=1&q=What%27s%20a%20good%20budget%20hotel%20chain%20that%20usually%20has%20a%20pool%3F&form=MA13G9&showconv=1)
+
+<A NAME="L1"></A>
+<HR>
+<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#L2">--&gt;</A></P>  
+    
+# [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq): Arduino Uno R4 Wifi LESSON 1: Getting Started for Absolute Beginners
+<p align="center">
+<img width="512" height="512" src="/Images/RPi1s.png"><BR>  
+© David Haworth   
+</p>
+
+These are homework and notes for [LESSON 1](https://youtu.be/S66Iwhk2V7A?si=Kvs1WDEJrwfAtRaq)
+
+
+<A NAME="P7"></A>
+<HR>
+<P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A></P>  
 
 
 # Title: "Arduino: A Comprehensive Guide to Interactive Electronics Projects"
