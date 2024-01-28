@@ -73,9 +73,9 @@ Homework assignment was to determine the frequency of the blinking LED persisten
 Blinking LED persistence of vision howework video.
 + [OpenAI](https://openai.com/) ChatGPT-4 [Arduino Blinking LED Lession 1](https://chat.openai.com/share/a3e6c923-2132-417c-9ea7-c0c1ffd34d1c)
 
-Arduino Homework Script
+## Lession 1 Arduino Homework Script
 
-```c+
+```c
 
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT); // Initialize the LED pin as an output.
