@@ -76,6 +76,20 @@ Blinking LED persistence of vision howework video.
 + [OpenAI](https://openai.com/) ChatGPT-4 [Arduino Blinking LED Lession 1](https://chat.openai.com/share/a3e6c923-2132-417c-9ea7-c0c1ffd34d1c) conversation.
 
 + [OpenAI](https://openai.com/) ChatGPT-4 prompt:
+  + You are a teacher. Today you're teaching your class about the Arduino Uno R3 microcontroller. You're going to teach your students to create their first program called Blink to turn on and off the LED at 1 Hz. Please give the sketch code and the details how to use the Arduino development environment version 1.8 to run this sketch.
+ChatGPT
+
+## Lession 1: Arduino homework blinking LED persistence of vision script
+
+```c++
+
+
+
+```
+---
+
+
++ [OpenAI](https://openai.com/) ChatGPT-4 prompt:
   + The next program is to vary the frequency of the blink from 1 Hertz to 100 Hertz in steps of 1 Hertz. The duration of a step should be 3 seconds. At the beginning of each step, please print out the frequency of the blink. Please create this sketch.
 ---
 ## Lession 1: Arduino homework blinking LED persistence of vision script
