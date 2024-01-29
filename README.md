@@ -103,7 +103,13 @@ void loop() {
 }
 
 ```
-
+---
+Homework YouTube videos as of 1/28/2024
++ https://www.youtube.com/watch?v=3WfvOFglzKg
++ https://youtu.be/SlDcf9h6jrA?si=XuGxh4ILnD6S26lS
++ https://youtu.be/Oa2eWjEvMB8
++ https://youtu.be/CPVfMoP-3k4
+  
 
 <A NAME="P7"></A>
 <HR>
